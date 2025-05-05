@@ -1,2 +1,0 @@
-# tercerrepo
-mi tercer repo
